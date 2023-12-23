@@ -1,0 +1,11 @@
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\bin\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.deps.json
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\bin\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.runtimeconfig.json
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\bin\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.runtimeconfig.dev.json
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\bin\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.dll
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\bin\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.pdb
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\obj\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.csprojAssemblyReference.cache
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\obj\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\obj\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.AssemblyInfoInputs.cache
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\obj\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.AssemblyInfo.cs
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\obj\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.dll
+C:\Users\Biggy\Desktop\Playground\inTheNews\CSIntro\GloDataBundleSwitchStatement\GloDataBundleSwitchStatement\obj\Debug\netcoreapp2.1\GloDataBundleSwitchStatement.pdb
