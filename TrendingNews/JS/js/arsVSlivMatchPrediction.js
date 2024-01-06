@@ -3,8 +3,7 @@
  *  This code is an example of how to use Math.Floor
  *  and Math.Random to Generate Match Prediction in JavaScript.
  *  I also make a reference to using closure where a function
- *  is defined within another function and has access to it's outer function.
- *  Here's an example of how to use a closure in JavaScript
+ *  is defined within another function and has access to its outer function.
  */
 
 //Create a storage location for data.
