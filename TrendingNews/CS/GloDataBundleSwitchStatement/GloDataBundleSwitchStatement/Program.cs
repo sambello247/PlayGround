@@ -6,6 +6,10 @@ namespace GloDataBundleSwitchStatement
     {
         static void Main(string[] args)
         {
+             /* 
+                This code demonstrate a practical example of using a C# switch statement for a Glo data bundle subscription in a command-line program. It showcase how the switch mechanism works with the value of the variable (ussdCode) to change the control flow of the program execution via search and map.
+            */
+            
             Console.WriteLine("What is your name?");
             String userName = Console.ReadLine();
 

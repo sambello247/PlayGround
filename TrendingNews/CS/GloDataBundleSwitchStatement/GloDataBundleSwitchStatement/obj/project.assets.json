@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Biggy\\Desktop\\Playground\\inTheNews\\CSIntro\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement.csproj",
+      "projectUniqueName": "C:\\Users\\Biggy\\Desktop\\Public Playground\\TrendingNews\\CS\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement.csproj",
       "projectName": "GloDataBundleSwitchStatement",
-      "projectPath": "C:\\Users\\Biggy\\Desktop\\Playground\\inTheNews\\CSIntro\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement.csproj",
+      "projectPath": "C:\\Users\\Biggy\\Desktop\\Public Playground\\TrendingNews\\CS\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement.csproj",
       "packagesPath": "C:\\Users\\Biggy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Biggy\\Desktop\\Playground\\inTheNews\\CSIntro\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement\\obj\\",
+      "outputPath": "C:\\Users\\Biggy\\Desktop\\Public Playground\\TrendingNews\\CS\\GloDataBundleSwitchStatement\\GloDataBundleSwitchStatement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\ProgramData\\Xamarin\\NuGet\\",
